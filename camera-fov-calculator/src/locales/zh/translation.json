@@ -1,0 +1,46 @@
+{
+  "app": {
+    "title": "相机视场计算器"
+  },
+  "form": {
+    "sensorType": "传感器类型：",
+    "focalLength": "焦距：",
+    "objectDistance": "目标距离：",
+    "objectHeight": "目标高度：",
+    "aspectRatio": "宽高比（宽/高）："
+  },
+  "units": {
+    "mm": "毫米",
+    "m": "米"
+  },
+  "actions": {
+    "add": "添加",
+    "deleteSelected": "删除选中",
+    "toggleLanguage": "中文/EN",
+    "switchToEN": "切换到英文",
+    "switchToZH": "切换到中文"
+  },
+  "list": {
+    "title": "参数集合"
+  },
+  "details": {
+    "title": "参数详情",
+    "name": "名称：",
+    "sensorType": "传感器类型：",
+    "focalLength": "焦距：",
+    "objectDistance": "目标距离：",
+    "objectHeight": "目标高度：",
+    "aspectRatio": "宽高比：",
+    "fov": "视场角：",
+    "coverage": "传感器覆盖率：",
+    "placeholder": "未选择参数集合"
+  },
+  "svg": {
+    "sensorArea": "传感器区域"
+  },
+  "format": {
+    "coverageSuffix": "% 传感器面积",
+    "fovH": "H:",
+    "fovV": "V:"
+  }
+}

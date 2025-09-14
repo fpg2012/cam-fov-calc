@@ -1,0 +1,46 @@
+{
+  "app": {
+    "title": "Camera Field of View Calculator"
+  },
+  "form": {
+    "sensorType": "Sensor Type:",
+    "focalLength": "Focal Length:",
+    "objectDistance": "Object Distance:",
+    "objectHeight": "Object Height:",
+    "aspectRatio": "Aspect Ratio (w/h):"
+  },
+  "units": {
+    "mm": "mm",
+    "m": "m"
+  },
+  "actions": {
+    "add": "Add",
+    "deleteSelected": "Delete Selected",
+    "toggleLanguage": "中文/EN",
+    "switchToEN": "Switch to English",
+    "switchToZH": "切换到中文"
+  },
+  "list": {
+    "title": "Parameter Sets"
+  },
+  "details": {
+    "title": "Parameter Set Details",
+    "name": "Name:",
+    "sensorType": "Sensor Type:",
+    "focalLength": "Focal Length:",
+    "objectDistance": "Object Distance:",
+    "objectHeight": "Object Height:",
+    "aspectRatio": "Aspect Ratio:",
+    "fov": "Field of View:",
+    "coverage": "Sensor Coverage:",
+    "placeholder": "No parameter set selected"
+  },
+  "svg": {
+    "sensorArea": "Sensor Area"
+  },
+  "format": {
+    "coverageSuffix": "% of sensor area",
+    "fovH": "H:",
+    "fovV": "V:"
+  }
+}
